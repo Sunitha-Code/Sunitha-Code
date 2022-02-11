@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sunitha
+- 👋 Hi, Im CODEHOST
 - 👀 I’m interested in GIT 
 - 🌱 I’m currently learning DevOps
 
